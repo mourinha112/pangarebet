@@ -321,10 +321,6 @@
               <i class="pi pi-whatsapp"></i>
               Falar no WhatsApp
             </a>
-            <a href="https://t.me/pangarebet" target="_blank" class="btn-telegram">
-              <i class="pi pi-telegram"></i>
-              Entrar no Telegram
-            </a>
           </div>
           <div class="cta-guarantee">
             <i class="pi pi-verified"></i>
@@ -351,7 +347,6 @@
               <a href="#" aria-label="Instagram"><i class="pi pi-instagram"></i></a>
               <a href="#" aria-label="Twitter"><i class="pi pi-twitter"></i></a>
               <a href="#" aria-label="YouTube"><i class="pi pi-youtube"></i></a>
-              <a href="#" aria-label="Telegram"><i class="pi pi-telegram"></i></a>
             </div>
           </div>
           <div class="footer-links">
