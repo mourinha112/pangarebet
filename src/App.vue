@@ -317,7 +317,7 @@
             Garantia de 7 dias ou seu dinheiro de volta.
           </p>
           <div class="cta-buttons">
-            <a href="https://wa.me/5511999999999" target="_blank" class="btn-whatsapp">
+            <a href="https://wa.me/5521986131173" target="_blank" class="btn-whatsapp">
               <i class="pi pi-whatsapp"></i>
               Falar no WhatsApp
             </a>
